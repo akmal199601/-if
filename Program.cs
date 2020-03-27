@@ -9,7 +9,7 @@ namespace _3
             /// Задание 2  ////
             // int a = 9;
             // int b = 8;
-            // if(a==b)a=0;b=0;
+            // if(a==b){a=0;b=0;}
             // if (a<b)a=b;
             // if (a>b)b=a;
             // System.Console.WriteLine(a);
